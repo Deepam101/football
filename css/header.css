@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=East+Sea+Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+.carousel-item img {
+   width: 100%;
+   
+}
+
+
+.text{
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 60px;
+    color: blue;
+}
+

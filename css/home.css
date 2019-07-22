@@ -1,0 +1,31 @@
+.images img{
+    width: 100%;
+}
+.card-title{
+    text-align: center;
+    color: black;
+}
+.card-text{
+    text-align: center;
+    color: black;
+    font-size:1.2em;
+}
+.card-title:hover{
+    text-decoration: none;
+    
+}
+.card-text:hover{
+    text-decoration: none;
+   
+}
+.card{
+     
+   border:1px outset #9a9;
+    background:#efe;
+    -webkit-box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+    -moz-box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+.card-title:hover{
+    text-decoration: none;
+}
+
